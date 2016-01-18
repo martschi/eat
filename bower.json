@@ -1,0 +1,27 @@
+{
+  "name": "eat",
+  "version": "0.0.0",
+  "description": "Electron App Template",
+  "main": "app.js",
+  "author": {
+	"name": "martschi",
+	"email": ""
+  },
+  "dependencies": {
+	"angular": "~1.4.4",
+	"angular-material": "~0.10.1",
+	"angular-route": "~1.4.4",
+	"angular-mocks": "~1.4.0",
+	"angular-chrome-storage": "~0.0.6",
+	"html5-boilerplate": "5.3.0",
+	"pouchdb": "~5.2.0",
+	"lodash": "~4.0.0",
+	"rxjs": "Rx#~4.0.7",
+	"angular-bootstrap": "~1.0.3",
+	"angular-ui-router": "~0.2.15",
+	"bootstrap": "~3.3.6",
+	"bootstrap-sass": "bootstrap-sass-official#~3.3.6",
+	"angular-ui-grid": "~3.0.7",
+	"angular-pouchdb": "~4.1.0"
+  }
+}

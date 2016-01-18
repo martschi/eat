@@ -1,0 +1,7 @@
+/node_modules
+/bower_components
+node_modules
+/dist
+/eat.iml
+/.editorconfig
+/.idea
